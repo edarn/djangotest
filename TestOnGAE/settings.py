@@ -1,0 +1,1 @@
+from luletrafik.settings import *
